@@ -12,13 +12,18 @@ Aluno da turma 14 do bootcamp GoStack da RocketSeat.
 
 
 Estou buscando me especializar nas seguintes tecnologias/frameworks:
--HTML5
--CSS3
--Bootstrap
--JavaScript
--Node JS
--React Js
--React Native
--TypeScript
--Git
--Scrum 
+  - HTML5
+  - CSS3
+  - Bootstrap
+  - JavaScript
+  - Node JS
+  - React Js
+  - React Native
+  - TypeScript
+  - Git
+  - Scrum 
+
+
+[Linkedin](https://www.linkedin.com/in/vitor-costa-10073089/)
+
+[Perfil RokectSeat](https://app.rocketseat.com.br/me/vitor-costa-1590345393)
