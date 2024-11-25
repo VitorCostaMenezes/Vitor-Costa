@@ -16,7 +16,6 @@
   <br>Participei do bootcamp Desenvolvedor FullStack da IGTI. (concluindo o curso na categoria top performance).
   <br>Participei da turma 14 do bootcamp GoStack da RocketSeat.
 </h3>
-<br>
 <h3>Possuo conhecimento ou experiência nas seguintes tecnologias/frameworks:</h3>
   <li>HTML5</li>
   <li>CSS3</li>
